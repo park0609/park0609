@@ -48,7 +48,7 @@
 
 ## Project List
 - [Project] [편의점 상품 관리 및 발주 시스템](https://github.com/park0609/mini_project.git)
-- [project] [자격증 정보, 시험 및 정보 공유 사이트](https://github.com/park0609/Mini_Project2.git)
+- [project] [IT자격증 정보, 시험 및 정보 공유 사이트](https://github.com/park0609/Mini_Project2.git)
 
 ## Learning
 - [부경대학교 빅데이터를 활용한 자바 개발자 과정] [Python] [수정중]
