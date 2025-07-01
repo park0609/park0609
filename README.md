@@ -51,10 +51,10 @@
 - [project] [자격증 정보, 시험 및 정보 공유 사이트](https://github.com/park0609/Mini_Project2.git)
 
 ## Learning
-- [부경대학교 빅데이터를 활용한 자바 개발자 과정] [Python](수정중)
+- [부경대학교 빅데이터를 활용한 자바 개발자 과정] [Python] [수정중]
 - [부경대학교 빅데이터를 활용한 자바 개발자 과정] [HTML,CSS,JS,React](https://github.com/park0609/JavaScript-1.git)
 - [부경대학교 빅데이터를 활용한 자바 개발자 과정] [Oracle Database](https://github.com/park0609/JAVA-database-2025-.git)
-- [부경대학교 빅데이터를 활용한 자바 개발자 과정] [Spring Boot](https://github.com/park0609/java-springboot-2025.git)
+- [부경대학교 빅데이터를 활용한 자바 개발자 과정] [Spring Boot](https://github.com/park0609/java-springboot-2025.git) [학습중]
 
 
 <!--
