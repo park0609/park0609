@@ -57,9 +57,10 @@
 ## Project List
 - [Project] [편의점 상품 관리 및 발주 시스템](https://github.com/park0609/mini_project.git)
 - [project] [자격증 정보, 시험 및 정보 공유 사이트](https://github.com/park0609/Mini_Project2.git)
-- [Python] [부경대학교 빅데이터를 활용한 자바 개발자 과정](수정중)
-- [HTML,CSS,JS,React] [부경대학교 빅데이터를 활용한 자바 개발자 과정](https://github.com/park0609/JavaScript-1.git)
-- [Spring Boot] [부경대학교 빅데이터를 활용한 자바 개발자 과정](https://github.com/park0609/java-springboot-2025.git)
+- [부경대학교 빅데이터를 활용한 자바 개발자 과정] [Python](수정중)
+- [부경대학교 빅데이터를 활용한 자바 개발자 과정] [HTML,CSS,JS,React](https://github.com/park0609/JavaScript-1.git)
+- [부경대학교 빅데이터를 활용한 자바 개발자 과정] [Oracle Database](https://github.com/park0609/JAVA-database-2025-.git)
+- [부경대학교 빅데이터를 활용한 자바 개발자 과정] [Spring Boot](https://github.com/park0609/java-springboot-2025.git)
 
 <img src="https://raw.githubusercontent.com/Platane/snk/output/github-contribution-grid-snake.svg" />
 
