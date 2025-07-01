@@ -2,8 +2,8 @@
   <a href="https://www.gitanimals.org/en_US?utm_medium=image&utm_source=park0609&utm_content=farm">
 <img
   src="https://render.gitanimals.org/farms/park0609"
-  width="1000"
-  height="400"
+  width="600"
+  height="300"
 />
 </a>
 </p>
