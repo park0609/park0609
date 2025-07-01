@@ -1,10 +1,9 @@
 <p align='center'>
-<a href="https://www.gitanimals.org/en_US?utm_medium=image&utm_source=park0609&utm_content=farm">
-<img
-  src="https://render.gitanimals.org/farms/park0609"
-  width="1000"
-  height="400"
-/>
+<a href="https://github.com/devxb/gitanimals">
+  <img src="https://render.gitanimals.org/farms/park0609"
+    width="1000"
+    heigth="400"
+    />
 </a>
 </p>
 
@@ -26,15 +25,16 @@
     <img width="60" height="60" src="https://img.icons8.com/3d-fluency/94/python.png" alt="python"/>
     <img height="60" src="https://img.icons8.com/?size=100&id=Pd2x9GWu9ovX&format=png&color=000000" title="Java">
     <img width="60" height="60" src="https://img.icons8.com/arcade/64/javascript.png" alt="javascript"/>
+  <img width="60" height="60" src="https://img.icons8.com/color/50/html-5--v1.png" alt="html-5--v1"/>
     <img width="60" height="60" src="https://img.icons8.com/color/50/oracle-logo.png" alt="oracle-logo"/>
 </p>
 
 ## Using Technics
 <p align='left'>
-  <img width="40" height="40" src="https://img.icons8.com/bubbles/100/react.png" alt="react"/>
-  <img height="40" src="https://img.icons8.com/?size=100&id=90519&format=png&color=000000" title="Spring Boot">  
-  <img height="40" src="https://img.icons8.com/?size=100&id=n73CzMVjH9X9&format=png&color=000000" title="Data Analysis"> 
-  <img width="40" height="40" src="https://img.icons8.com/fluency/48/docker.png" alt="docker" title="Docker">  
+  <img width="60" height="60" src="https://img.icons8.com/bubbles/100/react.png" alt="react"/>
+  <img height="60" src="https://img.icons8.com/?size=100&id=90519&format=png&color=000000" title="Spring Boot">  
+  <img height="60" src="https://img.icons8.com/?size=100&id=n73CzMVjH9X9&format=png&color=000000" title="Data Analysis"> 
+  <img width="60" height="60" src="https://img.icons8.com/fluency/48/docker.png" alt="docker" title="Docker">  
   <!-- 
   <img height="40" src="https://img.icons8.com/?size=100&id=O6SWwpPIM0GB&format=png&color=000000" title="PyTorch">  
   -->
@@ -42,10 +42,8 @@
 
 ## Using Tools
 <p align='left'>
-  <img height="40" src="https://img.icons8.com/?size=100&id=9OGIyU8hrxW5&format=png&color=000000" title="Visual Studio Code">
-  <img height="40" src="https://img.icons8.com/?size=100&id=ezj3zaVtImPg&format=png&color=000000" title="Visual Studio">
-  <img height="40" src="https://img.icons8.com/?size=100&id=jUw5rFZE2a5d&format=png&color=000000" title="Jetbrains">
-  <img width="40" height="40" src="https://img.icons8.com/color/48/android-studio--v3.png" alt="android-studio--v3" title="Android Studio">
+  <img height="60" src="https://img.icons8.com/?size=100&id=9OGIyU8hrxW5&format=png&color=000000" title="Visual Studio Code">
+  <img width="60" height="60" src="https://img.icons8.com/dusk/64/dbeaver.png" alt="dbeaver"/>
 </p>
 
 <!--
@@ -57,12 +55,11 @@
 -->
 
 ## Project List
-- [Website] [Personal Portfolio site](https://hugoMGSung.github.io)
-- [WinForm] [WinForms프로젝트](https://github.com/hugoMGSung/works-need-it-csharp/tree/main/miniprojects/ITS_CCTV_App)
-- [WPF] [WPF프로젝트](https://github.com/hugoMGSung/works-need-it-cshap/tree/main/studyWpf/portfolio)
-- [IoT] [IoT프로젝트](https://github.com/hugoMGSung/works-need-it-IoT/tree/main/energy_management_system)
-- [Python] [Python강의 프로젝트](https://github.com/hugoMGSung/iot-python-2025)
-- [Spring Boot] [SpringBoot](https://github.com/hugoMGSung/basic-python-2024)
+- [Project] [편의점 상품 관리 및 발주 시스템](https://github.com/park0609/mini_project.git)
+- [project] [자격증 정보, 시험 및 정보 공유 사이트](https://github.com/park0609/Mini_Project2.git)
+- [Python] [부경대학교 빅데이터를 활용한 자바 개발자 과정](수정중)
+- [HTML,CSS,JS,React] [부경대학교 빅데이터를 활용한 자바 개발자 과정](https://github.com/park0609/JavaScript-1.git)
+- [Spring Boot] [부경대학교 빅데이터를 활용한 자바 개발자 과정](https://github.com/park0609/java-springboot-2025.git)
 
 <img src="https://raw.githubusercontent.com/Platane/snk/output/github-contribution-grid-snake.svg" />
 
