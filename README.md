@@ -46,6 +46,17 @@
   <img width="60" height="60" src="https://img.icons8.com/dusk/64/dbeaver.png" alt="dbeaver"/>
 </p>
 
+## Project List
+- [Project] [편의점 상품 관리 및 발주 시스템](https://github.com/park0609/mini_project.git)
+- [project] [자격증 정보, 시험 및 정보 공유 사이트](https://github.com/park0609/Mini_Project2.git)
+
+## Learning
+- [부경대학교 빅데이터를 활용한 자바 개발자 과정] [Python](수정중)
+- [부경대학교 빅데이터를 활용한 자바 개발자 과정] [HTML,CSS,JS,React](https://github.com/park0609/JavaScript-1.git)
+- [부경대학교 빅데이터를 활용한 자바 개발자 과정] [Oracle Database](https://github.com/park0609/JAVA-database-2025-.git)
+- [부경대학교 빅데이터를 활용한 자바 개발자 과정] [Spring Boot](https://github.com/park0609/java-springboot-2025.git)
+
+
 <!--
 ## 기술명세
 | 기술분류 | 설명 |
@@ -53,14 +64,6 @@
 |VSCode | VisualStudio Code 툴 사용법 습득|
 |Python | 빅데이터분석, 머신러닝, OpenCV|
 -->
-
-## Project List
-- [Project] [편의점 상품 관리 및 발주 시스템](https://github.com/park0609/mini_project.git)
-- [project] [자격증 정보, 시험 및 정보 공유 사이트](https://github.com/park0609/Mini_Project2.git)
-- [부경대학교 빅데이터를 활용한 자바 개발자 과정] [Python](수정중)
-- [부경대학교 빅데이터를 활용한 자바 개발자 과정] [HTML,CSS,JS,React](https://github.com/park0609/JavaScript-1.git)
-- [부경대학교 빅데이터를 활용한 자바 개발자 과정] [Oracle Database](https://github.com/park0609/JAVA-database-2025-.git)
-- [부경대학교 빅데이터를 활용한 자바 개발자 과정] [Spring Boot](https://github.com/park0609/java-springboot-2025.git)
 
 <img src="https://raw.githubusercontent.com/Platane/snk/output/github-contribution-grid-snake.svg" />
 
