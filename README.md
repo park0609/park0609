@@ -10,6 +10,7 @@
 ## Profile
 - `Name` : 박세찬(Park sechan)
 - `Email` : guppy135@naver.com
+- `Education` : 부경대학교 인적자원개발센터 빅테이터를 활용한 자바 개발자 과정(2025.02.03 ~ 2025.07.29)(교육중)
  
 ## GitHub Stat and Languages
 <!-- username은 본인걸로 -->
